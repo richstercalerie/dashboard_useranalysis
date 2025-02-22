@@ -282,3 +282,5 @@ elif menu == "Contact Us":
 
 # Close database connection
 conn.close()
+
+st.write("Developed by Anurag Mishra")
